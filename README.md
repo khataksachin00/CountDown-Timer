@@ -4,3 +4,9 @@
 <img src= "./Count Down Timer.gif">
 
 ### I hope you liked my project. 
+
+...
+
+It was my First JS project
+
+...
