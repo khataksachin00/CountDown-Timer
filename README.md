@@ -3,4 +3,4 @@
 
 <img src= "./Count Down Timer.gif">
 
-### I hope you liked my 
+### I hope you liked my project. 
